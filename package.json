@@ -1,0 +1,16 @@
+{
+  "name": "problem2",
+  "version": "1.0.0",
+  "description": "Develop a HTTP microservice called prefix-management-service that exposes a GET REST API \"/prefixes\". This API receives a query parameter. This query param is called \"keywords\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
